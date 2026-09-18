@@ -1,4 +1,4 @@
-T# Bill Splitter 💸
+# Bill Splitter 💸
 
 A Python implementation of a restaurant bill splitting tool created as part of the
 [Hyperskill Python Developer course](https://hyperskill.org/courses/2-python-developer).
