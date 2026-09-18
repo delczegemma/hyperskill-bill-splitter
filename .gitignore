@@ -1,0 +1,19 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+.venv/
+__pycache__/
+
+
+# idea config
+.idea
+
+# old stages
+/Bill Splitter/*
+!/Bill Splitter/task/
+/Bill Splitter/task/*
+!/Bill Splitter/task/billsplitter.py
